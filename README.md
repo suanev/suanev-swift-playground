@@ -1,1 +1,1 @@
-# suanev-swift-playground
+# Swift exercises
